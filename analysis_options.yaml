@@ -1,0 +1,7 @@
+linter:
+  rules:
+    always_declare_return_types: false
+    avoid_print: false
+    unnecessary_this: false
+    prefer_const_constructors: false
+
